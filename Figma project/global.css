@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-anton: Anton;
+  --font-architects-daughter: "Architects Daughter";
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
